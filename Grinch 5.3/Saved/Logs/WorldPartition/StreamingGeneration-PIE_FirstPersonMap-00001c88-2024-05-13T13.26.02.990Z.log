@@ -1,0 +1,615 @@
+[+] Containers:
+ |- [+] Container: /Game/FirstPerson/Maps/FirstPersonMap
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:004F98A546888C8A13FEBF8E6175B042 BaseClass: NativeClass:/Script/Engine.Actor Name:Text_C_UAID_D85ED3652FEDD5F201_1400997207 Label:Text SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=6452.298 Y=6815.162 Z=150.222), Max=(X=6496.076 Y=6935.443 Z=176.222) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Cartel FolderGuid:0E7007794A5AFCAAEC470FADCA2DE2F1
+ |   |   |- Guid:0FA7A17A40A29BD674559AAEE5083C9A BaseClass: NativeClass:/Script/Engine.Actor Name:Text_4_C_UAID_D85ED3652FED55F301_1504516727 Label:Text_4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2638.935 Y=5695.427 Z=5707.911), Max=(X=2974.322 Y=5719.265 Z=5807.911) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:119FC80941F58EAA52EA90B66C912607 BaseClass: NativeClass:/Script/Engine.Actor Name:BP_fallingzone_C_UAID_D85ED3652FEDCDF201_1502570822 Label:BP_fallingzone27 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1555.551 Y=-1109.378 Z=-54.000), Max=(X=-1491.551 Y=13974.969 Z=474.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Falling Zones FolderGuid:2584285148D0AFB3370E1A9DE287D8B9
+ |   |   |- Guid:187D027A4912B545F14CD58E71017733 BaseClass: NativeClass:/Script/Engine.Actor Name:Text_3_C_UAID_D85ED3652FEDCAF201_2057644286 Label:Text_3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5781.358 Y=7046.744 Z=565.613), Max=(X=5781.358 Y=7419.790 Z=608.702) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Tutorial Text FolderGuid:985AD83B4DB559350867A690B8FF6A87
+ |   |   |- Guid:213FB41047D41EB2B477F59C28BC457A BaseClass: NativeClass:/Script/Engine.Actor Name:Text_2_C_UAID_D85ED3652FEDC2F201_1357469856 Label:Text_2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2638.867 Y=6730.730 Z=5386.772), Max=(X=2867.339 Y=6730.730 Z=5417.998) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Tutorial Text FolderGuid:985AD83B4DB559350867A690B8FF6A87
+ |   |   |- Guid:23313AD645611960B6D52D99828BB8C5 BaseClass: NativeClass:/Script/Engine.Actor Name:BP_fallingzone_C_UAID_D85ED3652FED5CF201_1415603905 Label:BP_fallingzone7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3276.674 Y=5838.679 Z=3877.044), Max=(X=3512.956 Y=6489.922 Z=3915.626) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Falling Zones FolderGuid:2584285148D0AFB3370E1A9DE287D8B9
+ |   |   |- Guid:2910DCFC48244CBA4B816293066A957B BaseClass: NativeClass:/Script/Engine.Actor Name:BP_fallingzone_C_UAID_D85ED3652FEDD4F201_1529372030 Label:BP_fallingzone32 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-284.991 Y=-1279.748 Z=-192.000), Max=(X=13037.920 Y=240.252 Z=-128.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Falling Zones FolderGuid:2584285148D0AFB3370E1A9DE287D8B9
+ |   |   |- Guid:2D2D2BCC462F0118C8308D86FF5AF07B BaseClass: NativeClass:/Script/Engine.Actor Name:BP_fallingzone_C_UAID_D85ED3652FEDBAF201_1959286447 Label:BP_fallingzone10 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5092.907 Y=2937.250 Z=1850.530), Max=(X=5169.295 Y=6108.597 Z=2596.437) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Falling Zones FolderGuid:2584285148D0AFB3370E1A9DE287D8B9
+ |   |   |- Guid:37B06B254CEF6BE4C610CF873598E229 BaseClass: NativeClass:/Script/Engine.Actor Name:BP_fallingzone_C_UAID_D85ED3652FEDD4F201_1469645029 Label:BP_fallingzone31 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-284.991 Y=12433.334 Z=-192.000), Max=(X=13037.921 Y=13953.334 Z=-128.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Falling Zones FolderGuid:2584285148D0AFB3370E1A9DE287D8B9
+ |   |   |- Guid:3F209261493F14322EEDB9ADDD2D4D4D BaseClass: NativeClass:/Script/Engine.Actor Name:BP_fallingzone_C_UAID_D85ED3652FEDCCF201_1137270640 Label:BP_fallingzone24 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4626.748 Y=5300.905 Z=2652.231), Max=(X=5275.698 Y=5378.820 Z=3477.259) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Falling Zones FolderGuid:2584285148D0AFB3370E1A9DE287D8B9
+ |   |   |- Guid:455885B34EF77CAF725CF990A094D3D8 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D85ED3652FEDC6F201_1381323562 Label:Cube4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5186.695 Y=7062.080 Z=1547.582), Max=(X=5225.771 Y=7162.080 Z=1647.582) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Sofa FolderGuid:8F547B15468181472889748EDB6BC6EA
+ |   |   |- Guid:4A8BAC3144B70A8D38357DA46A3A2C87 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D85ED3652FEDC6F201_2101685566 Label:Cone2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5123.869 Y=7166.777 Z=1527.678), Max=(X=5144.327 Y=7187.009 Z=1549.569) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Sofa FolderGuid:8F547B15468181472889748EDB6BC6EA
+ |   |   |- Guid:5DC81CAC4E2DC58574FE3FA8EF4B866A BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D85ED3652FEDC6F201_1324807560 Label:Cube2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5120.701 Y=7162.644 Z=1549.071), Max=(X=5197.443 Y=7191.537 Z=1618.675) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Sofa FolderGuid:8F547B15468181472889748EDB6BC6EA
+ |   |   |- Guid:5FE7584649BB6F09265329A6C57CFD0D BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_0 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=5010.000 Y=0.000 Z=820.000), Max=(X=5010.000 Y=0.000 Z=820.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- Guid:61391D344900612A77DFC3BA3E354907 BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_0 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=4560.000 Y=-50.000 Z=1020.000), Max=(X=4560.000 Y=-50.000 Z=1020.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- Guid:640DB15C47DE0BD711ABB892772D00F9 BaseClass: NativeClass:/Script/Engine.Actor Name:BP_fallingzone_C_UAID_D85ED3652FEDC9F201_1623724104 Label:BP_fallingzone17 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3761.854 Y=2966.366 Z=1949.674), Max=(X=4848.730 Y=3356.816 Z=2013.674) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Falling Zones FolderGuid:2584285148D0AFB3370E1A9DE287D8B9
+ |   |   |- Guid:644F46024E8E3F17C6FC4882CC9012F8 BaseClass: NativeClass:/Script/Engine.Actor Name:BP_fallingzone_C_UAID_D85ED3652FEDBBF201_1100159624 Label:BP_fallingzone11 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3110.176 Y=2953.772 Z=1966.802), Max=(X=5104.776 Y=3017.772 Z=2958.220) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Falling Zones FolderGuid:2584285148D0AFB3370E1A9DE287D8B9
+ |   |   |- Guid:67AE50D04AE7C78EF4BADBB5D7125707 BaseClass: NativeClass:/Script/Engine.Actor Name:BP_fallingzone_C_UAID_D85ED3652FEDCCF201_1819885641 Label:BP_fallingzone18 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4840.899 Y=2973.813 Z=1838.335), Max=(X=5269.282 Y=6110.909 Z=1902.335) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Falling Zones FolderGuid:2584285148D0AFB3370E1A9DE287D8B9
+ |   |   |- Guid:69657ECD4D610F1D5923E3B90202D32A BaseClass: NativeClass:/Script/Engine.Actor Name:Text_5_C_UAID_D85ED3652FED55F301_1988463729 Label:Text_5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=6567.336 Y=7071.042 Z=452.935), Max=(X=6593.400 Y=7400.589 Z=506.081) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:69B3831F49EDD61F35AFE19C1D2F3D85 BaseClass: NativeClass:/Script/Engine.Actor Name:BP_fallingzone_C_UAID_D85ED3652FED5CF201_1271369904 Label:BP_fallingzone6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3512.456 Y=5905.910 Z=3887.700), Max=(X=3584.308 Y=6501.201 Z=4413.027) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Falling Zones FolderGuid:2584285148D0AFB3370E1A9DE287D8B9
+ |   |   |- Guid:6C288E3D4FED926A762E9FAE09C5CC19 BaseClass: NativeClass:/Script/Engine.Actor Name:BP_fallingzone_C_UAID_FC3497BCD3F4E6F001_1387095125 Label:BP_fallingzone2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5250.260 Y=6182.270 Z=3028.565), Max=(X=5314.260 Y=9000.545 Z=3947.455) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Falling Zones FolderGuid:2584285148D0AFB3370E1A9DE287D8B9
+ |   |   |- Guid:6DB8A6054BDC0F1C5A72D38064F0FAB8 BaseClass: NativeClass:/Script/Engine.Actor Name:BP_fallingzone_C_UAID_D85ED3652FEDBBF201_1187390625 Label:BP_fallingzone12 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3739.143 Y=5058.665 Z=2657.241), Max=(X=5281.950 Y=5976.818 Z=2721.241) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Falling Zones FolderGuid:2584285148D0AFB3370E1A9DE287D8B9
+ |   |   |- Guid:6DBDAAA94CADC6D4390330965E19F880 BaseClass: NativeClass:/Script/Engine.Actor Name:BP_fallingzone_C_UAID_D85ED3652FEDD3F201_1774641847 Label:BP_fallingzone28 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1523.551 Y=-1519.884 Z=-192.000), Max=(X=-3.551 Y=14023.188 Z=-128.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Falling Zones FolderGuid:2584285148D0AFB3370E1A9DE287D8B9
+ |   |   |- Guid:6FEFB3BD4EB37B849EF0D4AC80F83855 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:None SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- Guid:710605124B7EECD3A7DA9EA040C23834 BaseClass: NativeClass:/Script/Engine.Actor Name:BP_fallingzone_C_UAID_D85ED3652FEDCCF201_1940612642 Label:BP_fallingzone25 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4738.375 Y=5993.591 Z=1739.140), Max=(X=5132.089 Y=6172.941 Z=2564.168) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Falling Zones FolderGuid:2584285148D0AFB3370E1A9DE287D8B9
+ |   |   |- Guid:78CAF7514C7533F30BD2F19A017AAB65 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_0 Label:SM_Cube SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-171.412 Y=-324.558 Z=-50.000), Max=(X=12887.652 Y=12585.641 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Playground FolderGuid:6C02BB504B69D1F3D7A624B130C18E5B
+ |   |   |- Guid:79DE5E10483D46FBDBC946BC0D8F47E9 BaseClass: NativeClass:/Script/Engine.Actor Name:BP_fallingzone_C_UAID_D85ED3652FED70F201_1778928424 Label:BP_fallingzone9 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4864.772 Y=8993.724 Z=3038.314), Max=(X=5247.720 Y=9057.724 Z=3863.342) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Falling Zones FolderGuid:2584285148D0AFB3370E1A9DE287D8B9
+ |   |   |- Guid:7A9AB7F948A2B1D0B16877B6E27DD8CB BaseClass: NativeClass:/Script/Engine.Actor Name:BP_fallingzone_C_UAID_D85ED3652FEDD4F201_1450863027 Label:BP_fallingzone30 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=14311.151 Y=-1109.378 Z=-94.145), Max=(X=14375.151 Y=13974.969 Z=433.855) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Falling Zones FolderGuid:2584285148D0AFB3370E1A9DE287D8B9
+ |   |   |- Guid:7D57B0AC42B4B0B883E7379FDBD80A69 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D85ED3652FEDC6F201_1351385561 Label:Cube3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5120.990 Y=7057.864 Z=1549.163), Max=(X=5203.730 Y=7164.886 Z=1578.438) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Sofa FolderGuid:8F547B15468181472889748EDB6BC6EA
+ |   |   |- Guid:891729B14DC7BC01FCE8F6B5DD78DB5F BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D85ED3652FEDC6F201_1569993563 Label:Cone SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5123.869 Y=7037.956 Z=1527.678), Max=(X=5144.327 Y=7058.187 Z=1549.569) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Sofa FolderGuid:8F547B15468181472889748EDB6BC6EA
+ |   |   |- Guid:8A71EF334700556213B5E1B1A79D80F7 BaseClass: NativeClass:/Script/Engine.Actor Name:BP_fallingzone_C_UAID_D85ED3652FED57F201_1681659023 Label:BP_fallingzone5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3421.131 Y=3907.760 Z=5207.365), Max=(X=3485.608 Y=5907.760 Z=5735.365) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Falling Zones FolderGuid:2584285148D0AFB3370E1A9DE287D8B9
+ |   |   |- Guid:8A78BB3840937523FFAECE92D3B63914 BaseClass: NativeClass:/Script/Engine.Actor Name:BP_fallingzone_C_UAID_D85ED3652FEDCAF201_1477794283 Label:BP_fallingzone20 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3510.781 Y=4449.755 Z=5213.110), Max=(X=4357.550 Y=5304.972 Z=5277.110) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Falling Zones FolderGuid:2584285148D0AFB3370E1A9DE287D8B9
+ |   |   |- Guid:8AA64CE748E460394D9E0B89F99B7C2E BaseClass: NativeClass:/Script/Engine.Actor Name:BP_fallingzone_C_UAID_D85ED3652FEDC2F201_1532076857 Label:BP_fallingzone13 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4313.099 Y=5331.232 Z=5327.320), Max=(X=4377.099 Y=7134.639 Z=5770.352) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Falling Zones FolderGuid:2584285148D0AFB3370E1A9DE287D8B9
+ |   |   |- Guid:8D0AC697415D6F0F34CFEAB2048C965F BaseClass: NativeClass:/Script/Engine.Actor Name:BP_fallingzone_C_UAID_D85ED3652FEDD4F201_1444295026 Label:BP_fallingzone4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1564.574 Y=13992.371 Z=-62.000), Max=(X=14406.417 Y=14056.371 Z=482.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Falling Zones FolderGuid:2584285148D0AFB3370E1A9DE287D8B9
+ |   |   |- Guid:A47FBB8C413551D60D1DB39B04B32915 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D85ED3652FEDC6F201_2116619568 Label:Cone4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5173.684 Y=7038.062 Z=1527.678), Max=(X=5194.142 Y=7058.293 Z=1549.569) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Sofa FolderGuid:8F547B15468181472889748EDB6BC6EA
+ |   |   |- Guid:A4FE55FC4C222D5EF1F55495F8477FFD BaseClass: NativeClass:/Script/Engine.Actor Name:Text_1_C_UAID_D85ED3652FEDC1F201_1901912679 Label:Text_1 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3289.803 Y=4462.417 Z=5380.256), Max=(X=3289.803 Y=4897.728 Z=5463.948) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Tutorial Texts FolderGuid:985AD83B4DB559350867A690B8FF6A87
+ |   |   |- Guid:A740086145E89137DD692BAB9E74419C BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_UAID_FC3497BCD3F43DEF01_1084563279 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=2290.640 Y=4609.627 Z=5275.146), Max=(X=2370.640 Y=4689.627 Z=5459.146) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:A79EE93F4A4E70F2DE965BA4B7BD3EFF BaseClass: NativeClass:/Script/Engine.Actor Name:BP_fallingzone_C_UAID_D85ED3652FEDC2F201_1628595858 Label:BP_fallingzone14 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4104.250 Y=5307.415 Z=5283.244), Max=(X=4378.848 Y=7132.453 Z=5347.244) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Falling Zones FolderGuid:2584285148D0AFB3370E1A9DE287D8B9
+ |   |   |- Guid:AC0811E04F5AC0F5C8DBCE855BAB3E65 BaseClass: NativeClass:/Script/Engine.Actor Name:BP_fallingzone_C_UAID_D85ED3652FEDC9F201_1439054103 Label:BP_fallingzone16 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3254.502 Y=2966.366 Z=2188.769), Max=(X=3789.565 Y=3356.816 Z=2252.769) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Falling Zones FolderGuid:2584285148D0AFB3370E1A9DE287D8B9
+ |   |   |- Guid:C0C56B9644AE3D40CAFF6A878DB29844 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A4AE111137DC5EFB00_2001720423 Label:SM_SkySphere SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1638400.000 Y=-1638400.000 Z=-1638400.000), Max=(X=1638400.000 Y=1638400.000 Z=1638400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- Guid:C22CE07C4B87D685137FDBBC10FC92C6 BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_0 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=5140.000 Y=0.000 Z=1020.000), Max=(X=5140.000 Y=0.000 Z=1020.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- Guid:C98C26A84D7C60A928531B9005525705 BaseClass: NativeClass:/Script/Engine.Actor Name:BP_fallingzone_C_UAID_D85ED3652FED70F201_1657416423 Label:BP_fallingzone8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4653.219 Y=5887.209 Z=2957.605), Max=(X=5265.964 Y=9024.304 Z=3021.605) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Falling Zones FolderGuid:2584285148D0AFB3370E1A9DE287D8B9
+ |   |   |- Guid:C9F7460C4EA211A28FF144B759E18013 BaseClass: NativeClass:/Script/Engine.Actor Name:BP_fallingzone_C_UAID_D85ED3652FEDCAF201_1687113285 Label:BP_fallingzone22 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4354.060 Y=4458.576 Z=5278.082), Max=(X=4418.060 Y=5305.345 Z=5963.410) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Falling Zones FolderGuid:2584285148D0AFB3370E1A9DE287D8B9
+ |   |   |- Guid:CCD104B1414E57D8D85C11ABFDCF6E94 BaseClass: NativeClass:/Script/Engine.Actor Name:BP_fallingzone_C_UAID_D85ED3652FEDC9F201_2047107106 Label:BP_fallingzone19 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3779.626 Y=5282.683 Z=2652.231), Max=(X=4614.513 Y=5364.597 Z=3477.259) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Falling Zones FolderGuid:2584285148D0AFB3370E1A9DE287D8B9
+ |   |   |- Guid:CE8D82634660FCDB3120E2B8D547C533 BaseClass: NativeClass:/Script/Engine.PostProcessVolume Name:PostProcessVolume_0 Label:PostProcessVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=9728.535 Y=5024.427 Z=400.000), Max=(X=9928.535 Y=5224.427 Z=600.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- Guid:CEEB245A429B34E71E2DE0AFCE5CB5D0 BaseClass: NativeClass:/Script/Engine.Actor Name:BP_fallingzone_C_UAID_FC3497BCD3F4E5F001_1991492948 Label:BP_fallingzone SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2355.937 Y=2839.729 Z=5025.558), Max=(X=3475.937 Y=6022.719 Z=5089.558) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Falling Zones FolderGuid:2584285148D0AFB3370E1A9DE287D8B9
+ |   |   |- Guid:DA3A9D084CFFD64A1A97B190235B7605 BaseClass: NativeClass:/Script/Engine.Actor Name:BP_fallingzone_C_UAID_D85ED3652FEDD4F201_1464376028 Label:BP_fallingzone29 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12781.408 Y=-1519.885 Z=-249.377), Max=(X=14301.408 Y=14023.188 Z=-185.377) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Falling Zones FolderGuid:2584285148D0AFB3370E1A9DE287D8B9
+ |   |   |- Guid:DE48F2E949CF12429B0298BE1635141E BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D85ED3652FEDC6F201_2017885565 Label:Cube6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5120.701 Y=7033.323 Z=1549.071), Max=(X=5197.443 Y=7062.216 Z=1618.675) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Sofa FolderGuid:8F547B15468181472889748EDB6BC6EA
+ |   |   |- Guid:DF0EBB5749FC854090649E96C26F0066 BaseClass: NativeClass:/Script/Engine.Actor Name:BP_fallingzone_C_UAID_D85ED3652FEDC9F201_1301399102 Label:BP_fallingzone15 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3257.905 Y=6429.790 Z=2870.382), Max=(X=4191.525 Y=6732.847 Z=3621.162) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Falling Zones FolderGuid:2584285148D0AFB3370E1A9DE287D8B9
+ |   |   |- Guid:E051597541B4C998010633A0C1018139 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_30 Label:SM_ChamferCube5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=704.831 Y=-526.431 Z=430.063), Max=(X=916.156 Y=-315.106 Z=580.063) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:SimulatedCubes FolderGuid:9AEEADCB4DC6C647D6E7C0B4EDA1744F
+ |   |   |- Guid:E22FA0634753AEF80F3310897F55B1BE BaseClass: NativeClass:/Script/Engine.Actor Name:BP_fallingzone_C_UAID_D85ED3652FEDCDF201_1342476819 Label:BP_fallingzone3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1457.847 Y=-1188.449 Z=-62.000), Max=(X=14196.987 Y=-1124.449 Z=482.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Falling Zones FolderGuid:2584285148D0AFB3370E1A9DE287D8B9
+ |   |   |- Guid:E2E0F7A04BC13F411A652982472A4090 BaseClass: NativeClass:/Script/Engine.Actor Name:BP_fallingzone_C_UAID_D85ED3652FEDCBF201_2111994463 Label:BP_fallingzone23 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5185.195 Y=5352.012 Z=2778.561), Max=(X=5267.110 Y=6186.899 Z=3603.589) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Falling Zones FolderGuid:2584285148D0AFB3370E1A9DE287D8B9
+ |   |   |- Guid:E5320C1B4FD9764CE7B54D8487AEC613 BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_0 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=9590.000 Y=0.000 Z=690.000), Max=(X=9590.000 Y=0.000 Z=690.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 Parent:C22CE07C4B87D685137FDBBC10FC92C6 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- Guid:EC2246EF48CC25EC6C13DBA024F08D46 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D85ED3652FEDC6F201_2112611567 Label:Cone3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5173.684 Y=7166.777 Z=1527.678), Max=(X=5194.142 Y=7187.009 Z=1549.569) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Sofa FolderGuid:8F547B15468181472889748EDB6BC6EA
+ |   |   |- Guid:F030E47F40AD7CEBDDEC56ABD1C5297D BaseClass: NativeClass:/Script/Engine.Actor Name:BP_fallingzone_C_UAID_D85ED3652FEDCAF201_1653574284 Label:BP_fallingzone21 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3510.781 Y=4473.674 Z=5278.082), Max=(X=4357.550 Y=4537.674 Z=5963.410) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Falling Zones FolderGuid:2584285148D0AFB3370E1A9DE287D8B9
+ |   |   |- Guid:F3570E424D2A51F2ACEFCCAE2054398A BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D85ED3652FED55F301_1904483728 Label:Cube SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=6542.026 Y=7054.811 Z=406.219), Max=(X=6655.174 Y=7417.709 Z=569.102) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:F80621C9446867154938FE81375207DA BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_1 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1048576.000 Y=-1048576.000 Z=-1048576.000), Max=(X=1048576.000 Y=1048576.000 Z=1048576.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:004F98A546888C8A13FEBF8E6175B042 BaseClass: NativeClass:/Script/Engine.Actor Name:Text_C_UAID_D85ED3652FEDD5F201_1400997207 Label:Text SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=6452.298 Y=6815.162 Z=150.222), Max=(X=6496.076 Y=6935.443 Z=176.222) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Cartel FolderGuid:0E7007794A5AFCAAEC470FADCA2DE2F1
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:0FA7A17A40A29BD674559AAEE5083C9A BaseClass: NativeClass:/Script/Engine.Actor Name:Text_4_C_UAID_D85ED3652FED55F301_1504516727 Label:Text_4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2638.935 Y=5695.427 Z=5707.911), Max=(X=2974.322 Y=5719.265 Z=5807.911) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:119FC80941F58EAA52EA90B66C912607 BaseClass: NativeClass:/Script/Engine.Actor Name:BP_fallingzone_C_UAID_D85ED3652FEDCDF201_1502570822 Label:BP_fallingzone27 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1555.551 Y=-1109.378 Z=-54.000), Max=(X=-1491.551 Y=13974.969 Z=474.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Falling Zones FolderGuid:2584285148D0AFB3370E1A9DE287D8B9
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:187D027A4912B545F14CD58E71017733 BaseClass: NativeClass:/Script/Engine.Actor Name:Text_3_C_UAID_D85ED3652FEDCAF201_2057644286 Label:Text_3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5781.358 Y=7046.744 Z=565.613), Max=(X=5781.358 Y=7419.790 Z=608.702) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Tutorial Text FolderGuid:985AD83B4DB559350867A690B8FF6A87
+ |   |   |- [+] [  4]
+ |   |   |   |- Guid:213FB41047D41EB2B477F59C28BC457A BaseClass: NativeClass:/Script/Engine.Actor Name:Text_2_C_UAID_D85ED3652FEDC2F201_1357469856 Label:Text_2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2638.867 Y=6730.730 Z=5386.772), Max=(X=2867.339 Y=6730.730 Z=5417.998) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Tutorial Text FolderGuid:985AD83B4DB559350867A690B8FF6A87
+ |   |   |- [+] [  5]
+ |   |   |   |- Guid:23313AD645611960B6D52D99828BB8C5 BaseClass: NativeClass:/Script/Engine.Actor Name:BP_fallingzone_C_UAID_D85ED3652FED5CF201_1415603905 Label:BP_fallingzone7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3276.674 Y=5838.679 Z=3877.044), Max=(X=3512.956 Y=6489.922 Z=3915.626) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Falling Zones FolderGuid:2584285148D0AFB3370E1A9DE287D8B9
+ |   |   |- [+] [  6]
+ |   |   |   |- Guid:2910DCFC48244CBA4B816293066A957B BaseClass: NativeClass:/Script/Engine.Actor Name:BP_fallingzone_C_UAID_D85ED3652FEDD4F201_1529372030 Label:BP_fallingzone32 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-284.991 Y=-1279.748 Z=-192.000), Max=(X=13037.920 Y=240.252 Z=-128.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Falling Zones FolderGuid:2584285148D0AFB3370E1A9DE287D8B9
+ |   |   |- [+] [  7]
+ |   |   |   |- Guid:2D2D2BCC462F0118C8308D86FF5AF07B BaseClass: NativeClass:/Script/Engine.Actor Name:BP_fallingzone_C_UAID_D85ED3652FEDBAF201_1959286447 Label:BP_fallingzone10 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5092.907 Y=2937.250 Z=1850.530), Max=(X=5169.295 Y=6108.597 Z=2596.437) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Falling Zones FolderGuid:2584285148D0AFB3370E1A9DE287D8B9
+ |   |   |- [+] [  8]
+ |   |   |   |- Guid:37B06B254CEF6BE4C610CF873598E229 BaseClass: NativeClass:/Script/Engine.Actor Name:BP_fallingzone_C_UAID_D85ED3652FEDD4F201_1469645029 Label:BP_fallingzone31 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-284.991 Y=12433.334 Z=-192.000), Max=(X=13037.921 Y=13953.334 Z=-128.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Falling Zones FolderGuid:2584285148D0AFB3370E1A9DE287D8B9
+ |   |   |- [+] [  9]
+ |   |   |   |- Guid:3F209261493F14322EEDB9ADDD2D4D4D BaseClass: NativeClass:/Script/Engine.Actor Name:BP_fallingzone_C_UAID_D85ED3652FEDCCF201_1137270640 Label:BP_fallingzone24 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4626.748 Y=5300.905 Z=2652.231), Max=(X=5275.698 Y=5378.820 Z=3477.259) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Falling Zones FolderGuid:2584285148D0AFB3370E1A9DE287D8B9
+ |   |   |- [+] [ 10]
+ |   |   |   |- Guid:455885B34EF77CAF725CF990A094D3D8 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D85ED3652FEDC6F201_1381323562 Label:Cube4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5186.695 Y=7062.080 Z=1547.582), Max=(X=5225.771 Y=7162.080 Z=1647.582) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Sofa FolderGuid:8F547B15468181472889748EDB6BC6EA
+ |   |   |- [+] [ 11]
+ |   |   |   |- Guid:4A8BAC3144B70A8D38357DA46A3A2C87 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D85ED3652FEDC6F201_2101685566 Label:Cone2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5123.869 Y=7166.777 Z=1527.678), Max=(X=5144.327 Y=7187.009 Z=1549.569) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Sofa FolderGuid:8F547B15468181472889748EDB6BC6EA
+ |   |   |- [+] [ 12]
+ |   |   |   |- Guid:5DC81CAC4E2DC58574FE3FA8EF4B866A BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D85ED3652FEDC6F201_1324807560 Label:Cube2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5120.701 Y=7162.644 Z=1549.071), Max=(X=5197.443 Y=7191.537 Z=1618.675) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Sofa FolderGuid:8F547B15468181472889748EDB6BC6EA
+ |   |   |- [+] [ 13]
+ |   |   |   |- Guid:5FE7584649BB6F09265329A6C57CFD0D BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_0 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=5010.000 Y=0.000 Z=820.000), Max=(X=5010.000 Y=0.000 Z=820.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- [+] [ 14]
+ |   |   |   |- Guid:61391D344900612A77DFC3BA3E354907 BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_0 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=4560.000 Y=-50.000 Z=1020.000), Max=(X=4560.000 Y=-50.000 Z=1020.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- [+] [ 15]
+ |   |   |   |- Guid:640DB15C47DE0BD711ABB892772D00F9 BaseClass: NativeClass:/Script/Engine.Actor Name:BP_fallingzone_C_UAID_D85ED3652FEDC9F201_1623724104 Label:BP_fallingzone17 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3761.854 Y=2966.366 Z=1949.674), Max=(X=4848.730 Y=3356.816 Z=2013.674) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Falling Zones FolderGuid:2584285148D0AFB3370E1A9DE287D8B9
+ |   |   |- [+] [ 16]
+ |   |   |   |- Guid:644F46024E8E3F17C6FC4882CC9012F8 BaseClass: NativeClass:/Script/Engine.Actor Name:BP_fallingzone_C_UAID_D85ED3652FEDBBF201_1100159624 Label:BP_fallingzone11 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3110.176 Y=2953.772 Z=1966.802), Max=(X=5104.776 Y=3017.772 Z=2958.220) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Falling Zones FolderGuid:2584285148D0AFB3370E1A9DE287D8B9
+ |   |   |- [+] [ 17]
+ |   |   |   |- Guid:67AE50D04AE7C78EF4BADBB5D7125707 BaseClass: NativeClass:/Script/Engine.Actor Name:BP_fallingzone_C_UAID_D85ED3652FEDCCF201_1819885641 Label:BP_fallingzone18 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4840.899 Y=2973.813 Z=1838.335), Max=(X=5269.282 Y=6110.909 Z=1902.335) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Falling Zones FolderGuid:2584285148D0AFB3370E1A9DE287D8B9
+ |   |   |- [+] [ 18]
+ |   |   |   |- Guid:69657ECD4D610F1D5923E3B90202D32A BaseClass: NativeClass:/Script/Engine.Actor Name:Text_5_C_UAID_D85ED3652FED55F301_1988463729 Label:Text_5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=6567.336 Y=7071.042 Z=452.935), Max=(X=6593.400 Y=7400.589 Z=506.081) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 19]
+ |   |   |   |- Guid:69B3831F49EDD61F35AFE19C1D2F3D85 BaseClass: NativeClass:/Script/Engine.Actor Name:BP_fallingzone_C_UAID_D85ED3652FED5CF201_1271369904 Label:BP_fallingzone6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3512.456 Y=5905.910 Z=3887.700), Max=(X=3584.308 Y=6501.201 Z=4413.027) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Falling Zones FolderGuid:2584285148D0AFB3370E1A9DE287D8B9
+ |   |   |- [+] [ 20]
+ |   |   |   |- Guid:6C288E3D4FED926A762E9FAE09C5CC19 BaseClass: NativeClass:/Script/Engine.Actor Name:BP_fallingzone_C_UAID_FC3497BCD3F4E6F001_1387095125 Label:BP_fallingzone2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5250.260 Y=6182.270 Z=3028.565), Max=(X=5314.260 Y=9000.545 Z=3947.455) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Falling Zones FolderGuid:2584285148D0AFB3370E1A9DE287D8B9
+ |   |   |- [+] [ 21]
+ |   |   |   |- Guid:6DB8A6054BDC0F1C5A72D38064F0FAB8 BaseClass: NativeClass:/Script/Engine.Actor Name:BP_fallingzone_C_UAID_D85ED3652FEDBBF201_1187390625 Label:BP_fallingzone12 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3739.143 Y=5058.665 Z=2657.241), Max=(X=5281.950 Y=5976.818 Z=2721.241) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Falling Zones FolderGuid:2584285148D0AFB3370E1A9DE287D8B9
+ |   |   |- [+] [ 22]
+ |   |   |   |- Guid:6DBDAAA94CADC6D4390330965E19F880 BaseClass: NativeClass:/Script/Engine.Actor Name:BP_fallingzone_C_UAID_D85ED3652FEDD3F201_1774641847 Label:BP_fallingzone28 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1523.551 Y=-1519.884 Z=-192.000), Max=(X=-3.551 Y=14023.188 Z=-128.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Falling Zones FolderGuid:2584285148D0AFB3370E1A9DE287D8B9
+ |   |   |- [+] [ 23]
+ |   |   |   |- Guid:6FEFB3BD4EB37B849EF0D4AC80F83855 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:None SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- [+] [ 24]
+ |   |   |   |- Guid:710605124B7EECD3A7DA9EA040C23834 BaseClass: NativeClass:/Script/Engine.Actor Name:BP_fallingzone_C_UAID_D85ED3652FEDCCF201_1940612642 Label:BP_fallingzone25 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4738.375 Y=5993.591 Z=1739.140), Max=(X=5132.089 Y=6172.941 Z=2564.168) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Falling Zones FolderGuid:2584285148D0AFB3370E1A9DE287D8B9
+ |   |   |- [+] [ 25]
+ |   |   |   |- Guid:78CAF7514C7533F30BD2F19A017AAB65 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_0 Label:SM_Cube SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-171.412 Y=-324.558 Z=-50.000), Max=(X=12887.652 Y=12585.641 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Playground FolderGuid:6C02BB504B69D1F3D7A624B130C18E5B
+ |   |   |- [+] [ 26]
+ |   |   |   |- Guid:79DE5E10483D46FBDBC946BC0D8F47E9 BaseClass: NativeClass:/Script/Engine.Actor Name:BP_fallingzone_C_UAID_D85ED3652FED70F201_1778928424 Label:BP_fallingzone9 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4864.772 Y=8993.724 Z=3038.314), Max=(X=5247.720 Y=9057.724 Z=3863.342) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Falling Zones FolderGuid:2584285148D0AFB3370E1A9DE287D8B9
+ |   |   |- [+] [ 27]
+ |   |   |   |- Guid:7A9AB7F948A2B1D0B16877B6E27DD8CB BaseClass: NativeClass:/Script/Engine.Actor Name:BP_fallingzone_C_UAID_D85ED3652FEDD4F201_1450863027 Label:BP_fallingzone30 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=14311.151 Y=-1109.378 Z=-94.145), Max=(X=14375.151 Y=13974.969 Z=433.855) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Falling Zones FolderGuid:2584285148D0AFB3370E1A9DE287D8B9
+ |   |   |- [+] [ 28]
+ |   |   |   |- Guid:7D57B0AC42B4B0B883E7379FDBD80A69 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D85ED3652FEDC6F201_1351385561 Label:Cube3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5120.990 Y=7057.864 Z=1549.163), Max=(X=5203.730 Y=7164.886 Z=1578.438) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Sofa FolderGuid:8F547B15468181472889748EDB6BC6EA
+ |   |   |- [+] [ 29]
+ |   |   |   |- Guid:891729B14DC7BC01FCE8F6B5DD78DB5F BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D85ED3652FEDC6F201_1569993563 Label:Cone SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5123.869 Y=7037.956 Z=1527.678), Max=(X=5144.327 Y=7058.187 Z=1549.569) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Sofa FolderGuid:8F547B15468181472889748EDB6BC6EA
+ |   |   |- [+] [ 30]
+ |   |   |   |- Guid:8A71EF334700556213B5E1B1A79D80F7 BaseClass: NativeClass:/Script/Engine.Actor Name:BP_fallingzone_C_UAID_D85ED3652FED57F201_1681659023 Label:BP_fallingzone5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3421.131 Y=3907.760 Z=5207.365), Max=(X=3485.608 Y=5907.760 Z=5735.365) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Falling Zones FolderGuid:2584285148D0AFB3370E1A9DE287D8B9
+ |   |   |- [+] [ 31]
+ |   |   |   |- Guid:8A78BB3840937523FFAECE92D3B63914 BaseClass: NativeClass:/Script/Engine.Actor Name:BP_fallingzone_C_UAID_D85ED3652FEDCAF201_1477794283 Label:BP_fallingzone20 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3510.781 Y=4449.755 Z=5213.110), Max=(X=4357.550 Y=5304.972 Z=5277.110) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Falling Zones FolderGuid:2584285148D0AFB3370E1A9DE287D8B9
+ |   |   |- [+] [ 32]
+ |   |   |   |- Guid:8AA64CE748E460394D9E0B89F99B7C2E BaseClass: NativeClass:/Script/Engine.Actor Name:BP_fallingzone_C_UAID_D85ED3652FEDC2F201_1532076857 Label:BP_fallingzone13 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4313.099 Y=5331.232 Z=5327.320), Max=(X=4377.099 Y=7134.639 Z=5770.352) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Falling Zones FolderGuid:2584285148D0AFB3370E1A9DE287D8B9
+ |   |   |- [+] [ 33]
+ |   |   |   |- Guid:8D0AC697415D6F0F34CFEAB2048C965F BaseClass: NativeClass:/Script/Engine.Actor Name:BP_fallingzone_C_UAID_D85ED3652FEDD4F201_1444295026 Label:BP_fallingzone4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1564.574 Y=13992.371 Z=-62.000), Max=(X=14406.417 Y=14056.371 Z=482.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Falling Zones FolderGuid:2584285148D0AFB3370E1A9DE287D8B9
+ |   |   |- [+] [ 34]
+ |   |   |   |- Guid:A47FBB8C413551D60D1DB39B04B32915 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D85ED3652FEDC6F201_2116619568 Label:Cone4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5173.684 Y=7038.062 Z=1527.678), Max=(X=5194.142 Y=7058.293 Z=1549.569) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Sofa FolderGuid:8F547B15468181472889748EDB6BC6EA
+ |   |   |- [+] [ 35]
+ |   |   |   |- Guid:A4FE55FC4C222D5EF1F55495F8477FFD BaseClass: NativeClass:/Script/Engine.Actor Name:Text_1_C_UAID_D85ED3652FEDC1F201_1901912679 Label:Text_1 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3289.803 Y=4462.417 Z=5380.256), Max=(X=3289.803 Y=4897.728 Z=5463.948) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Tutorial Texts FolderGuid:985AD83B4DB559350867A690B8FF6A87
+ |   |   |- [+] [ 36]
+ |   |   |   |- Guid:A740086145E89137DD692BAB9E74419C BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_UAID_FC3497BCD3F43DEF01_1084563279 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=2290.640 Y=4609.627 Z=5275.146), Max=(X=2370.640 Y=4689.627 Z=5459.146) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 37]
+ |   |   |   |- Guid:A79EE93F4A4E70F2DE965BA4B7BD3EFF BaseClass: NativeClass:/Script/Engine.Actor Name:BP_fallingzone_C_UAID_D85ED3652FEDC2F201_1628595858 Label:BP_fallingzone14 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4104.250 Y=5307.415 Z=5283.244), Max=(X=4378.848 Y=7132.453 Z=5347.244) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Falling Zones FolderGuid:2584285148D0AFB3370E1A9DE287D8B9
+ |   |   |- [+] [ 38]
+ |   |   |   |- Guid:AC0811E04F5AC0F5C8DBCE855BAB3E65 BaseClass: NativeClass:/Script/Engine.Actor Name:BP_fallingzone_C_UAID_D85ED3652FEDC9F201_1439054103 Label:BP_fallingzone16 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3254.502 Y=2966.366 Z=2188.769), Max=(X=3789.565 Y=3356.816 Z=2252.769) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Falling Zones FolderGuid:2584285148D0AFB3370E1A9DE287D8B9
+ |   |   |- [+] [ 39]
+ |   |   |   |- Guid:C0C56B9644AE3D40CAFF6A878DB29844 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A4AE111137DC5EFB00_2001720423 Label:SM_SkySphere SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1638400.000 Y=-1638400.000 Z=-1638400.000), Max=(X=1638400.000 Y=1638400.000 Z=1638400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- [+] [ 40]
+ |   |   |   |- Guid:C22CE07C4B87D685137FDBBC10FC92C6 BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_0 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=5140.000 Y=0.000 Z=1020.000), Max=(X=5140.000 Y=0.000 Z=1020.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |   |- Guid:E5320C1B4FD9764CE7B54D8487AEC613 BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_0 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=9590.000 Y=0.000 Z=690.000), Max=(X=9590.000 Y=0.000 Z=690.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 Parent:C22CE07C4B87D685137FDBBC10FC92C6 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- [+] [ 41]
+ |   |   |   |- Guid:C98C26A84D7C60A928531B9005525705 BaseClass: NativeClass:/Script/Engine.Actor Name:BP_fallingzone_C_UAID_D85ED3652FED70F201_1657416423 Label:BP_fallingzone8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4653.219 Y=5887.209 Z=2957.605), Max=(X=5265.964 Y=9024.304 Z=3021.605) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Falling Zones FolderGuid:2584285148D0AFB3370E1A9DE287D8B9
+ |   |   |- [+] [ 42]
+ |   |   |   |- Guid:C9F7460C4EA211A28FF144B759E18013 BaseClass: NativeClass:/Script/Engine.Actor Name:BP_fallingzone_C_UAID_D85ED3652FEDCAF201_1687113285 Label:BP_fallingzone22 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4354.060 Y=4458.576 Z=5278.082), Max=(X=4418.060 Y=5305.345 Z=5963.410) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Falling Zones FolderGuid:2584285148D0AFB3370E1A9DE287D8B9
+ |   |   |- [+] [ 43]
+ |   |   |   |- Guid:CCD104B1414E57D8D85C11ABFDCF6E94 BaseClass: NativeClass:/Script/Engine.Actor Name:BP_fallingzone_C_UAID_D85ED3652FEDC9F201_2047107106 Label:BP_fallingzone19 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3779.626 Y=5282.683 Z=2652.231), Max=(X=4614.513 Y=5364.597 Z=3477.259) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Falling Zones FolderGuid:2584285148D0AFB3370E1A9DE287D8B9
+ |   |   |- [+] [ 44]
+ |   |   |   |- Guid:CE8D82634660FCDB3120E2B8D547C533 BaseClass: NativeClass:/Script/Engine.PostProcessVolume Name:PostProcessVolume_0 Label:PostProcessVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=9728.535 Y=5024.427 Z=400.000), Max=(X=9928.535 Y=5224.427 Z=600.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- [+] [ 45]
+ |   |   |   |- Guid:CEEB245A429B34E71E2DE0AFCE5CB5D0 BaseClass: NativeClass:/Script/Engine.Actor Name:BP_fallingzone_C_UAID_FC3497BCD3F4E5F001_1991492948 Label:BP_fallingzone SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2355.937 Y=2839.729 Z=5025.558), Max=(X=3475.937 Y=6022.719 Z=5089.558) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Falling Zones FolderGuid:2584285148D0AFB3370E1A9DE287D8B9
+ |   |   |- [+] [ 46]
+ |   |   |   |- Guid:DA3A9D084CFFD64A1A97B190235B7605 BaseClass: NativeClass:/Script/Engine.Actor Name:BP_fallingzone_C_UAID_D85ED3652FEDD4F201_1464376028 Label:BP_fallingzone29 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12781.408 Y=-1519.885 Z=-249.377), Max=(X=14301.408 Y=14023.188 Z=-185.377) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Falling Zones FolderGuid:2584285148D0AFB3370E1A9DE287D8B9
+ |   |   |- [+] [ 47]
+ |   |   |   |- Guid:DE48F2E949CF12429B0298BE1635141E BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D85ED3652FEDC6F201_2017885565 Label:Cube6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5120.701 Y=7033.323 Z=1549.071), Max=(X=5197.443 Y=7062.216 Z=1618.675) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Sofa FolderGuid:8F547B15468181472889748EDB6BC6EA
+ |   |   |- [+] [ 48]
+ |   |   |   |- Guid:DF0EBB5749FC854090649E96C26F0066 BaseClass: NativeClass:/Script/Engine.Actor Name:BP_fallingzone_C_UAID_D85ED3652FEDC9F201_1301399102 Label:BP_fallingzone15 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3257.905 Y=6429.790 Z=2870.382), Max=(X=4191.525 Y=6732.847 Z=3621.162) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Falling Zones FolderGuid:2584285148D0AFB3370E1A9DE287D8B9
+ |   |   |- [+] [ 49]
+ |   |   |   |- Guid:E051597541B4C998010633A0C1018139 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_30 Label:SM_ChamferCube5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=704.831 Y=-526.431 Z=430.063), Max=(X=916.156 Y=-315.106 Z=580.063) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:SimulatedCubes FolderGuid:9AEEADCB4DC6C647D6E7C0B4EDA1744F
+ |   |   |- [+] [ 50]
+ |   |   |   |- Guid:E22FA0634753AEF80F3310897F55B1BE BaseClass: NativeClass:/Script/Engine.Actor Name:BP_fallingzone_C_UAID_D85ED3652FEDCDF201_1342476819 Label:BP_fallingzone3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1457.847 Y=-1188.449 Z=-62.000), Max=(X=14196.987 Y=-1124.449 Z=482.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Falling Zones FolderGuid:2584285148D0AFB3370E1A9DE287D8B9
+ |   |   |- [+] [ 51]
+ |   |   |   |- Guid:E2E0F7A04BC13F411A652982472A4090 BaseClass: NativeClass:/Script/Engine.Actor Name:BP_fallingzone_C_UAID_D85ED3652FEDCBF201_2111994463 Label:BP_fallingzone23 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5185.195 Y=5352.012 Z=2778.561), Max=(X=5267.110 Y=6186.899 Z=3603.589) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Falling Zones FolderGuid:2584285148D0AFB3370E1A9DE287D8B9
+ |   |   |- [+] [ 52]
+ |   |   |   |- Guid:EC2246EF48CC25EC6C13DBA024F08D46 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D85ED3652FEDC6F201_2112611567 Label:Cone3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5173.684 Y=7166.777 Z=1527.678), Max=(X=5194.142 Y=7187.009 Z=1549.569) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Sofa FolderGuid:8F547B15468181472889748EDB6BC6EA
+ |   |   |- [+] [ 53]
+ |   |   |   |- Guid:F030E47F40AD7CEBDDEC56ABD1C5297D BaseClass: NativeClass:/Script/Engine.Actor Name:BP_fallingzone_C_UAID_D85ED3652FEDCAF201_1653574284 Label:BP_fallingzone21 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3510.781 Y=4473.674 Z=5278.082), Max=(X=4357.550 Y=4537.674 Z=5963.410) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Falling Zones FolderGuid:2584285148D0AFB3370E1A9DE287D8B9
+ |   |   |- [+] [ 54]
+ |   |   |   |- Guid:F3570E424D2A51F2ACEFCCAE2054398A BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D85ED3652FED55F301_1904483728 Label:Cube SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=6542.026 Y=7054.811 Z=406.219), Max=(X=6655.174 Y=7417.709 Z=569.102) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 55]
+ |   |   |   |- Guid:F80621C9446867154938FE81375207DA BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_1 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1048576.000 Y=-1048576.000 Z=-1048576.000), Max=(X=1048576.000 Y=1048576.000 Z=1048576.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 00000000000000000000000000000000
+ |   |-  ParentID: 00000000000000000000000000000000
+ |   |-    Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/FirstPerson/Maps/FirstPersonMap
+----------------------------------------------------------------------------------------------------------------
+FirstPersonMap - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+[+] Content of FirstPersonMap Persistent Level
+ |- Always loaded Actor Count: 206 
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.AbstractNavData-Default
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_fallingzone_C_UAID_D85ED3652FED57F201_1681659023
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/U3/7JHHWT3MBIJ5SZU6TREVP8
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_fallingzone_C_UAID_D85ED3652FED5CF201_1271369904
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/ZM/9RXLOEL7PFRP5EEL5LH6KA
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_fallingzone_C_UAID_D85ED3652FED5CF201_1415603905
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/4I/3IQ15V7X9V4LGEFOLV3H6Q
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_fallingzone_C_UAID_D85ED3652FED70F201_1657416423
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/GM/1QIBGBR4HDWNUF30B3KIS6
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_fallingzone_C_UAID_D85ED3652FED70F201_1778928424
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/TZ/TTZMUG64NGSWQZOO57AFGM
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_fallingzone_C_UAID_D85ED3652FEDBAF201_1959286447
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/7H/4C3NRA12NV7FQQ4KGV0ETL
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_fallingzone_C_UAID_D85ED3652FEDBBF201_1100159624
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/V9/1UEY07GH51OEYLXPLD6H9N
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_fallingzone_C_UAID_D85ED3652FEDBBF201_1187390625
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/HK/H4C7L3JWH09ER1M754HEK6
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_fallingzone_C_UAID_D85ED3652FEDC2F201_1532076857
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/86/8GHB3FKI7PIJ90POH3SH5B
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_fallingzone_C_UAID_D85ED3652FEDC2F201_1628595858
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/9T/N98X9ZI91DF9GJ3TBTJ56M
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_fallingzone_C_UAID_D85ED3652FEDC9F201_1301399102
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/H5/O6QP1UBED94K6HYFDHW4NT
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_fallingzone_C_UAID_D85ED3652FEDC9F201_1439054103
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/OP/V6DNHHUPF8FAQMSQK13JBZ
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_fallingzone_C_UAID_D85ED3652FEDC9F201_1623724104
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/V7/UCEPCIJKR5LQV8HGENFO50
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_fallingzone_C_UAID_D85ED3652FEDC9F201_2047107106
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/UR/2KOE91TITAUDPBGIV37VWU
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_fallingzone_C_UAID_D85ED3652FEDCAF201_1477794283
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/1G/T0WYS4RZSLEW65ET841RYD
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_fallingzone_C_UAID_D85ED3652FEDCAF201_1653574284
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/6J/WZTW982DAOQ8TC304AWPEK
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_fallingzone_C_UAID_D85ED3652FEDCAF201_1687113285
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/8Y/A59KQ15AHH4RY7XZSHV51K
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_fallingzone_C_UAID_D85ED3652FEDCBF201_2111994463
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/KJ/GYPLKHU3MGJNXHYELWXTAP
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_fallingzone_C_UAID_D85ED3652FEDCCF201_1137270640
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/V5/4PJ6RNKH5NGDS2AW1DI4RY
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_fallingzone_C_UAID_D85ED3652FEDCCF201_1819885641
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/1X/OLUFR96YU4J9NVGW3FSKU3
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_fallingzone_C_UAID_D85ED3652FEDCCF201_1940612642
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/YT/PWCGOIKWWXGXI85EOI2I9A
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_fallingzone_C_UAID_D85ED3652FEDCDF201_1342476819
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/IF/VIMMG0JQRSL6Y7JXLZWQ2E
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_fallingzone_C_UAID_D85ED3652FEDCDF201_1502570822
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/RS/BAH5S4UMO8TY96TM4NMM06
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_fallingzone_C_UAID_D85ED3652FEDD3F201_1774641847
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/YW/UZ4C00S2QR9E9VCCI7DE4D
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_fallingzone_C_UAID_D85ED3652FEDD4F201_1444295026
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/IJ/TMR4O66F4Z85V6C0OPJEA8
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_fallingzone_C_UAID_D85ED3652FEDD4F201_1450863027
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/6S/YXI7E8SYKCLH3JD7WINUOT
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_fallingzone_C_UAID_D85ED3652FEDD4F201_1464376028
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/CO/SOCZ68IGXBXQE7AA8VP6ON
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_fallingzone_C_UAID_D85ED3652FEDD4F201_1469645029
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/HX/NF35D1609KNUOGW0ATR9OO
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_fallingzone_C_UAID_D85ED3652FEDD4F201_1529372030
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/B1/ICTLKX3FKMOQNN8LTCY66M
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_fallingzone_C_UAID_FC3497BCD3F4E5F001_1991492948
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/7C/AULT7PUQ7C2GPJFZNMW7GX
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_fallingzone_C_UAID_FC3497BCD3F4E6F001_1387095125
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/AQ/J3TT3KTAWCX6SJJT7IBBWR
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_0
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_1
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_2
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_3
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_4
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_5
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_6
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_7
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_8
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_9
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_10
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_11
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_12
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_13
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_14
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_15
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_16
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_17
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_18
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_19
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_20
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_21
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_22
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_23
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_24
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_25
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_26
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_27
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_28
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_29
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_30
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_31
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_32
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_33
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_34
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_35
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_36
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_37
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_38
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_39
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_40
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_41
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_42
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_43
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_44
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_45
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_46
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_47
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_48
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_49
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_50
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_51
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_52
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_53
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_54
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_55
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_56
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_57
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_58
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_59
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_60
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_61
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_62
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_63
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_64
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_65
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_66
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_67
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_68
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_69
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_70
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_71
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_72
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_73
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_74
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_75
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_76
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_77
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_78
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_79
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_80
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_81
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_82
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_83
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_84
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_85
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_86
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_87
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_88
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_89
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_90
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_91
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_92
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_93
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_94
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_95
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_96
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_97
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_98
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_99
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_100
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_101
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_102
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_103
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_104
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_105
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_106
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_107
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_108
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_109
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_110
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_111
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_112
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_113
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_114
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_115
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_116
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_117
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_118
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_119
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_120
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_121
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_122
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_123
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_124
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_125
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_126
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_127
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_128
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_129
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_130
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_131
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_132
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_133
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_134
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_135
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_136
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_137
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_138
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_139
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_140
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_142
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_143
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Brush_144
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.DefaultPhysicsVolume_0
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.DirectionalLight_1
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/WB/V4ALNTJYOVWM8BU452CKV5
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.ExponentialHeightFog_0
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/CL/381LM03PFI8AF9NED1SEV2
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonExampleMap_C_1
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.GameplayDebuggerPlayerManager_0
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PlayerStart_UAID_FC3497BCD3F43DEF01_1084563279
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/BL/WH6R74F8VBGRG1XC050BAI
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PostProcessVolume_0
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/MX/R1GV431P5FDO08OFULRA01
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkyAtmosphere_0
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/VO/VMN4G7K3NKKV6F8HTPHHDB
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkyLight_0
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/0Z/5RQIHCZ9W3UXRGL4LTLQAK
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_0
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/L5/1ZJ54FMA0DAL3I2Q8RFAIB
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_30
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/3M/4ATOKH0ZGPCVBS85MPKAXK
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_A4AE111137DC5EFB00_2001720423
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/ZU/PDQ0AB8RLNMVID876FD49G
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_D85ED3652FED55F301_1904483728
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/2M/PA2A2A7IV2EO2INI92TJPC
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_D85ED3652FEDC6F201_1324807560
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/JD/HGE0NSALOS3Y91AGP47AYY
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_D85ED3652FEDC6F201_1351385561
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/OF/OR3MLNEIJJW2AY3KMEEC2D
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_D85ED3652FEDC6F201_1381323562
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/MP/5K77FI24SG229LFUPXZW3G
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_D85ED3652FEDC6F201_1569993563
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/LA/189UF0NJ2EMDHVMUG9W3E6
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_D85ED3652FEDC6F201_2017885565
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/NP/HN2JOWP7C6R68Q8ADF4WDW
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_D85ED3652FEDC6F201_2101685566
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/SH/HSXDCTD7FYNV0THPFW4QGU
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_D85ED3652FEDC6F201_2112611567
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/EN/HIB06RAKCPJNFR4YZ3ANRN
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_D85ED3652FEDC6F201_2116619568
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/2G/I7XUH5AVDFB8CT9GF2SVDS
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Text_1_C_UAID_D85ED3652FEDC1F201_1901912679
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/3E/ID4EBV9V8ENY6DGX6IINR4
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Text_2_C_UAID_D85ED3652FEDC2F201_1357469856
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/2X/LWZL6BP0T7IEZEP7BUNGQ6
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Text_4_C_UAID_D85ED3652FED55F301_1504516727
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/XX/3NJ5EB6KO81O740GSJG9X9
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Text_5_C_UAID_D85ED3652FED55F301_1988463729
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/CN/Z7TFSPT6F5AEGSNDU56IFO
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Text_C_UAID_D85ED3652FEDD5F201_1400997207
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/TC/B6D6FN7SZQ7VKGDW7WLUN2
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.VolumetricCloud_0
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/GO/I8WEFD3RY9V3NVQLSU6QM4
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.WorldDataLayers
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/0W/E1FKEGVKGOLM7HGLQPCIPO
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.WorldInfo_0
+ |- Actor Package: /Game/FirstPerson/Maps/FirstPersonMap
+ |- Actor Path: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.WorldPartitionMiniMap_0
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/CR/SRVPLA8UNZ8XIIP0E036DI
+
+----------------------------------------------------------------------------------------------------------------
+FirstPersonMap - Runtime Spatial Hash - Streaming Grid - MainGrid
+----------------------------------------------------------------------------------------------------------------
+            Origin: X=0.000 Y=0.000 Z=0.000
+         Cell Size: 12800
+      World Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+     Loading Range: 25600.00
+Block Slow Loading: No
+ ClientOnlyVisible: No
+            Origin: X=0.000 Y=0.000 Z=0.000
+
+[+] Grid Levels: 1
+ |- Level  0: Cell Count    0 | Cell Size   12800 | Actor Count    0 (0.0%)
+
+[+] Content of Grid Level 0
+
